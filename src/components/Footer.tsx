@@ -29,16 +29,8 @@ export default function Footer({ onNavigate }: FooterProps) {
             <img 
               alt="MT Tires Logo" 
               className="h-10 w-auto object-contain" 
-              src="https://lh3.googleusercontent.com/aida-public/AB6AXuClX_7WxU9UD3WQwESdyfa3lfPcvAbxX8yBmtt-8kz8OC5P6crUfrfhawn6V4y4Kl9PtrWdVhyNIOVtMLw_8AydTEjjKnalV7vSu44nBXU2erBSIn55zEIedDjUVN6V87Q5qj08TQrmUsPu6t3KMnSG6XoWKl-7GZPGJLvE4K-4wSUWZIFqnhEvE40ineIcNV2wSfuQ9dPwJGVe-JluY1aKprxLBHc2Sal8_jlg7ywlFBOIhrubDBJ0ZttunoodaZlmLg"
+              src="https://i.ibb.co/HpDDDSNt/Whats-App-Image-2026-07-09-at-11-42-52-PM-2-Photoroom.png"
             />
-            <div className="flex flex-col">
-              <span className="font-display text-base font-extrabold tracking-tight text-primary leading-tight">
-                MT TIRES
-              </span>
-              <span className="font-mono text-[9px] uppercase tracking-widest text-secondary font-bold">
-                &amp; Auto Repair
-              </span>
-            </div>
           </div>
           <p className="font-sans text-sm text-secondary leading-relaxed max-w-sm">
             Bringing surgical precision to every alignment, tire service, and vehicle repair since 1998. Your safety and vehicle performance represent our signature.
